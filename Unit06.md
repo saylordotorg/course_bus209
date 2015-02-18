@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS209: Organizational Behavior"
+course_description: "A detailed study of how people interact in organizations that examines which factors have the greatest impact on organizational behavior. Topics range from managing individuals and understanding group dynamics to managing conflict and initiating change."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Managing Change** <span id="6"></span> 
 *Change is a surprisingly difficult process for firms. When two large
 companies merge, it can take a couple of years to reorganize and many

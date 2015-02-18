@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS209: Organizational Behavior"
+course_description: "A detailed study of how people interact in organizations that examines which factors have the greatest impact on organizational behavior. Topics range from managing individuals and understanding group dynamics to managing conflict and initiating change."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Leveraging Power** <span id="4"></span> 
 *Power is a popular topic, because it is so easily misused. We all have
 some kind of power over others, whether it is earned through a promotion

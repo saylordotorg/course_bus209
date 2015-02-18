@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS209: Organizational Behavior"
+course_description: "A detailed study of how people interact in organizations that examines which factors have the greatest impact on organizational behavior. Topics range from managing individuals and understanding group dynamics to managing conflict and initiating change."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Managing Groups** <span id="3"></span> 
 *Is there a difference between a group and team? Certainly, for example,
 groups can exist without having a specific goal in mind. Or said another

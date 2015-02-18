@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS209: Organizational Behavior"
+course_description: "A detailed study of how people interact in organizations that examines which factors have the greatest impact on organizational behavior. Topics range from managing individuals and understanding group dynamics to managing conflict and initiating change."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Conflict Management and Negotiations** <span id="5"></span> 
 *Conflict is a good thing – as long as it is productive. Insulting
 someone is not productive, but a healthy debate is the foundation of

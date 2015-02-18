@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS209: Organizational Behavior"
+course_description: "A detailed study of how people interact in organizations that examines which factors have the greatest impact on organizational behavior. Topics range from managing individuals and understanding group dynamics to managing conflict and initiating change."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Organizations in Business** <span id="1"></span> 
 *Let’s start with the basics in considering the following question: what
 is an organization? An* organization *is a collection of individuals
